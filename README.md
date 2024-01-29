@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tana! <br/><a href="https://github.com/tanamlmbo">A Programmer</a> <a href="www.linkedin.com/in/tanatswa-mlambo-9250092b0"></a></h1>
+<h1>Hi, I'm Tana! <br/><a href="https://github.com/tanamlmbo">A Programmer In Training</a> <a href="www.linkedin.com/in/tanatswa-mlambo-9250092b0"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
