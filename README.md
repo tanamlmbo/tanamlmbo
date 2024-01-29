@@ -1,9 +1,9 @@
 <h1>Hi, I'm Tana! <br/><a href="https://github.com/tanamlmbo">A Programmer In Training</a> <a href="www.linkedin.com/in/tanatswa-mlambo-9250092b0"></a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Java Scripting Practice (IntelliJ)</b>
+  - [Mortgage Calculator Tutorial](https://github.com/tanamlmbo/MortgageCalculatorTutorial)
 
 <h2> 🤳 Connect with me:</h2>
 
